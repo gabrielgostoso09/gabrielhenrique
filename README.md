@@ -1,1 +1,21 @@
-# gabrielhenrique
+- ###boas vindas ao meu perfil 🖤
+- 
+- meu nome é Gabriel Gostoso
+
+- Estou estudando na Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-###utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
+-
+-
+-
+-
+-
+-
+-
+
+-
+-
+-
+-
+-
+-
